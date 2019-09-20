@@ -1,5 +1,5 @@
 # EcommerceWesStore
-a E-commerce  online furniture store (front-end)
+A E-commerce  online furniture store (front-end)
 I took this porject on my own to build a online  fruniture store for my client.
 I am trying to collect all the information from online everywhere without a good experience on programming languages.
 Providing all the details of the product,tags company information handling deal online is really a big task for me, taking this as a challenge i want to handle all the product related queries companies policy and almost everything.
